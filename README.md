@@ -1,1 +1,1 @@
-# PseudoRandom-Genarator
+# PseudoRandom-Generator
